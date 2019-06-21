@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="2" viewBox="0 0 50 2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #413d4b;
+        fill-rule: evenodd;
+        opacity: 0.3;
+      }
+    </style>
+  </defs>
+  <path id="Separator" class="cls-1" d="M775,1760v-2h50v2H775Z" transform="translate(-775 -1758)"/>
+</svg>
